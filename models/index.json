@@ -1,0 +1,55 @@
+{
+  "item":[
+    {
+      "h1":"Mixtureで始める<br>UIプロトタイピング",
+      "h3":"Getting started with Mixture.",
+      "p":"<small><a class='fb' href='https://www.facebook.com/hayakasa'>Ryoji Hayasaka</a> / <a class='tw' href='http://twitter.com/r_hayakasa'>@r_hayakasa</a></small>"
+    },
+    {
+      "h2":"Mixture",
+      "p":"<a href='http://mixture.io/' target='_blank'>http://mixture.io/</a>"
+    },
+    {
+      "h3":"※注意事項",
+      "p":"Mixtureはまだbeta versionです。<br>今回解説した内容が変わる可能性があります。"
+    },
+    {
+      "h3":"Mixtureの主な機能",
+      "ol":["テンプレートエンジン", "プリプロセッサー", "JS・画像のMinify", "ローカルサーバー", "MixtureサーバーへのPublish"]
+    },
+    {
+      "h3":"テンプレートエンジン",
+      "ul":["Liquid", "Haml"]
+    },
+    {
+      "h3":"プリプロセッサー",
+      "h4":"CSS",
+      "ul":["Sass(SCSS)", "Compass", "LESS", "Stylus"]
+    },
+    {
+      "h4":"JavaScript",
+      "ul":["CoffeeScript"]
+    },
+    {
+      "h3":"JS, CSS, 画像のMinify",
+      "ul":["JS|CSSのMinify, Mix", "BMP|GIF|PNM|TIFFｰ>PNG変換","JPEGのロスレス圧縮"]
+    },
+    {
+      "h3":"ローカルサーバー",
+      "ul":["Debug Mode", "Live Reload", "ToDo"]
+    },
+    {
+      "h3":"MixtureサーバーへのPublish",
+      "ul":["ルーティング", "※削除機能がない！"]
+    },
+    {
+      "h3":"オススメ",
+      "h4":"<img src='assets/img/7ae81e9bb11db49a0c233af9f0fad05e.jpeg' height='80'>",
+      "p":"導入はここを読めば大丈夫！<br><a href='http://creative-tweet.net/blog/2013/04/used-the-mixture.html'>creative-tweet.net/blog/2013/04/used-the-mixture.html</a>"
+    },
+    {
+      "h2":"おしまい",
+      "p":"Thank you!<br><a class='fb' href='https://www.facebook.com/hayakasa'>Ryoji Hayasaka</a> / <a class='tw' href='http://twitter.com/r_hayakasa'>@r_hayakasa</a>"
+    }
+  ]
+}
