@@ -1,7 +1,15 @@
-p a.tw {
+a.tw {
   background:url(../img/twitter-bird-light-bgs.png) no-repeat left center;
+}
+
+p a.tw {
   background-size: 70px;
   padding-left:70px;
+}
+
+small a.tw {
+  background-size: 45px;
+  padding-left:45px;
 }
 
 p a.fb {
@@ -10,26 +18,14 @@ p a.fb {
   padding-left:60px;
 }
 
-small a.tw {
-  background:url(../img/twitter-bird-light-bgs.png) no-repeat left center;
-  background-size: 40px;
-  padding-left:40px;
-}
-
 small a.fb {
   background:url(../img/FB-f-Logo__blue_29.png) no-repeat left top;
   background-size: 25px;
   padding-left:40px;
 }
 
-.reveal section img.icon {
+.reveal section .icon {
   border: none;
   box-shadow: none;
   margin: 0;
-}
-
-.float {
-  grid-columns: ;
-  padding-left: 130px !important;
-  float: left;
 }

@@ -21,6 +21,9 @@
       {% if item.h4 %}
       <h4>{{ item.h4 }}</h4>
       {% endif %}
+      {% if item.pre %}
+      <pre>{{ item.pre }}</pre>
+      {% endif %}
       {% if item.p %}
       <p>{{ item.p }}</p>
       {% endif %}
@@ -47,7 +50,6 @@
 
 {% block scripts %}
 <script>
-
   // Full list of configuration options available here:
   // https://github.com/hakimel/reveal.js#configuration
   Reveal.initialize({
@@ -69,6 +71,5 @@
       { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
     ]
   });
-
 </script>
 {% endblock %}

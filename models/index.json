@@ -11,11 +11,11 @@
     },
     {
       "h3":"※注意事項",
-      "p":"Mixtureはまだbeta versionです。<br>今回解説した内容が変わる可能性があります。"
+      "p":"Mixtureはまだbeta versionです。<br>今回説明した内容は変更されるかもしれません。"
     },
     {
       "h3":"Mixtureの主な機能",
-      "ol":["テンプレートエンジン", "プリプロセッサー", "JS・画像のMinify", "ローカルサーバー", "MixtureサーバーへのPublish"]
+      "ol":["テンプレートエンジン", "プリプロセッサー", "JS, CSS, 画像のMinify", "ローカルサーバー", "MixtureサーバーへのPublish"]
     },
     {
       "h3":"テンプレートエンジン",
@@ -27,8 +27,16 @@
       "ul":["Sass(SCSS)", "Compass", "LESS", "Stylus"]
     },
     {
+      "h3":"プリプロセッサー",
       "h4":"JavaScript",
       "ul":["CoffeeScript"]
+    },
+    {
+      "p":["それでは、実際に動きを確認してみましょう。"]
+    },
+    {
+      "h3":"Liquid",
+      "ul":["制御構文(if, for, case ...)", "Model(JSONで定義)", "Asset URL Tags", "Lorem Ipsum Tag(ダミーテキスト)", "Placeholder(ダミーブロック)", "Pagenation", "and more..."]
     },
     {
       "h3":"JS, CSS, 画像のMinify",
